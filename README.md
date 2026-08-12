@@ -18,11 +18,10 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Metrics:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdou-dev09&show_icons=true&theme=radial" alt="Abderahmane's GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-dev09&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/abdou-dev09?style=for-the-badge&logo=github&color=238636" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abdou-dev09?style=for-the-badge&logo=github&color=e3b341" alt="Stars" />
 </p>
 
 ---
@@ -45,4 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
 </p>
+<h3 align="left">Contribution Activity:</h3>
+<p align="left">
+  <img src="https://ghchart.rshah.org/abdou-dev09" alt="Abdou's Github Chart" width="100%" />
 </p>
