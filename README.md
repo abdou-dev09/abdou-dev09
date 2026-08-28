@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | C++ & .NET Developer</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gi](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)" width="400" alt="Coding GIF" />
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" width="400" alt="Developer Working" />
 </p>
 
 <p align="center">
@@ -51,5 +51,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
   </a> 
 </p>
-
----
