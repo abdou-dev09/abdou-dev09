@@ -2,6 +2,10 @@
 <h3 align="center">Software Engineering Student | C++ & .NET Developer</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="400" alt="Coding GIF" />
+</p>
+
+<p align="center">
   <i>Passionate about low-level system efficiency, robust software architecture, and writing clean, reusable code.</i>
 </p>
 
@@ -49,23 +53,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdou-dev09&show_icons=true&theme=tokyonight&hide_border=true" alt="Abderahmane's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-dev09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/abdou-dev09?style=for-the-badge&logo=github&color=238636" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/abdou-dev09?style=for-the-badge&logo=github&color=e3b341" alt="Stars" />
-</p>
-
----
-
-### 🟩 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/abdou-dev09" alt="Abderahmane's Github Chart" width="100%" />
-</p>
